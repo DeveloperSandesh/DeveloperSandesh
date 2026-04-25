@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Sandesh Bhandari, a 9th-grade student from Nepal with a strong passion for coding, software development, and exploring new technologies. I enjoy transforming ideas into functional software, building practical solutions, and constantly learning to improve my skills.<br><br>
+Hello! I’m Sandesh Bhandari, a 1oth-grade student from Nepal with a strong passion for coding, software development, and exploring new technologies. I enjoy transforming ideas into functional software, building practical solutions, and constantly learning to improve my skills.<br><br>
 
 Here’s a closer look at me:<br><br>
 
